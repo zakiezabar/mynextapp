@@ -15,7 +15,7 @@ export default function Home() {
             Zakie Zabar!
           </a>
         </h1>
-        <h1>Sink or swim</h1>
+        <h1 className="text-6xl font-regular">Sink or swim</h1>
 
         <p className="mt-3 text-2xl">
           Get started by editing{' '}
