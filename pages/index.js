@@ -16,7 +16,7 @@ export default function Home() {
             Tom John!
           </a>
         </h1>
-        <h1 className="text-6xl font-regular">Sink or swim</h1>
+        <h1 className="text-6xl font-regular italic">Sink or swimmmm</h1>
 
         <p className="mt-3 text-2xl">
           Get started by editing{' '}
